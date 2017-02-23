@@ -2,8 +2,7 @@
 //  Foo.h
 //  Foo
 //
-//  Created by Vinicius Jarina on 22/02/13.
-//  Copyright (c) 2013 Vinicius Jarina. All rights reserved.
+//  Created by Ankit Asthana.
 //
 
 #import <Foundation/Foundation.h>
