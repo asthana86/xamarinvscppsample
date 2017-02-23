@@ -7,5 +7,5 @@ Sample of build a Native Binding Library with Xamarin.iOS using Visual Studio
 
 		make
 
-* [Build and run UseFoo from Visual Studio](http://screencast.com/t/e7uBArubG5VM):
+* Build and run UseFoo from Visual Studio
 
